@@ -35,3 +35,25 @@ main {
   height: 100%;
   width: 100%;
 }
+
+.reward {
+  background-color: rgb(231, 19, 54);
+  color: white;
+  border: none;
+  padding: 1rem;
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+}
+
+.playagain {
+  background-color: rgb(19, 51, 231);
+  color: white;
+  border: none;
+  padding: 1rem;
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: 600;
+}
